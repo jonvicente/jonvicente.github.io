@@ -17,6 +17,8 @@ Bachelor of Science in Biomedicine [Anhembi Morumbi University - UAM](http://htt
 
 **RESEARCH**: [Social](https://en.wikipedia.org/wiki/Social_science) and [Human Sciences](https://en.wikipedia.org/wiki/Human_science) in [Public Health](https://en.wikipedia.org/wiki/Public_health), [Psychiatric Epidemiology](https://en.wikipedia.org/wiki/Psychiatric_epidemiology), [Mental Health](https://en.wikipedia.org/wiki/Mental_health), [Health Policy](https://en.wikipedia.org/wiki/Health_policy), [Preventive Medicine](https://en.wikipedia.org/wiki/Preventive_healthcare) and [Reviews](https://en.wikipedia.org/wiki/Systematic_review). Member of [***Ayé Nucleus***](https://www.instagram.com/nucleoaye/), the [***Brazilian League of Black Science***](https://www.instagram.com/lcpbrasileira/) and the Study and Research Group on [***Health, Intersectionality and Social Markers of Difference***](https://sites.usp.br/simas/)(SIMAS) at FMUSP. He is a member of the working group for Affirmative Policies of the *Graduate Programme in Collective Health* of the Department of Preventive Medicine of the USP School of Medicine and is also a student representative (leader) on the [**FMUSP - Graduate Committee**](https://www.fm.usp.br/posgrad/portal/comissao-de-pos-graduacao) (2021 - 2022). He supervised the [UC4: Process Health-Disease-Care](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=MSP1041) (MSP1041-MSP1042-MSP1043) of the Faculty of Medicine of FMUSP.
 
+<a class="twitter-timeline" data-height="500" data-theme="light" href="https://twitter.com/jonathanvicent?ref_src=twsrc%5Etfw">Tweets by jonathanvicent</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 A data-driven personal website
 ======
