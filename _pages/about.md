@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-Bachelor of Science in Biomedicine (Anhembi Morumbi University 2014 - 2017) with a degree in Clinical Pathology, also completed postgraduate studies in Political Science with a focus on Public Health, with a research thesis (Políticas Publica: O processo político de criação do Sistema Unico de Saúde com base na Lei 8080/90 - USCS - Municipal University of São Caetano do Sul - 2019). MSc in Public Health/Collective Health at the Department of Preventive Medicine of the Faculty of Medicine of the University of São Paulo-USP (FMUSP 2020-2022) and a collaborator of the Yale-Proxima Associates Class'21.
+Bachelor of Science in Biomedicine ([Anhembi Morumbi University](http://https://en.wikipedia.org/wiki/Anhembi_Morumbi_University) 2014 - 2017) with a degree in Clinical Pathology, also completed postgraduate studies in Political Science with a focus on Public Health, with a research thesis (Políticas Publica: O processo político de criação do Sistema Unico de Saúde com base na Lei 8080/90 - USCS - Municipal University of São Caetano do Sul - 2019). MSc in Public Health/Collective Health at the Department of Preventive Medicine of the Faculty of Medicine of the University of São Paulo-USP (FMUSP 2020-2022) and a collaborator of the Yale-Proxima Associates Class'21.
 
 ![Illustration of combining vision and language modalities](/images/capa_2.png){:.align-center width="700px"}
 
