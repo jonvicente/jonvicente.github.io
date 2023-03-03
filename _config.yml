@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jonathan Vicente"
   avatar           : "Image_1.jpg"
-  bio              : "BiomedSci, MSc in PH"
+  bio              : "BMedSci, MSc in PH"
   location         : "São Paulo, Brazil"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jonathanvicentt/"
   orcid            : "http://orcid.org/0000-0003-1529-9570"
   pinterest        :
   soundcloud       :
