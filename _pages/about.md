@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, I'm Jonathan Vicente"
+title: "Hey, I'm Jonathan Vicente"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
