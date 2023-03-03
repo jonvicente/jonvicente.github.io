@@ -3,7 +3,10 @@ main:
   - title: "Publications"
     url: /publications/
     url: https://scholar.google.com.br/citations?user=UhEVsTEAAAAJ&hl=pt-BR
-
+    
+  - title: "CV"
+    url: /files/CV_Jonathan-Vicente.pdf
+    
   - title: "Talks"
     url: /talks/    
 
@@ -15,9 +18,7 @@ main:
         
   # - title: "Blog Posts"
   # url: /year-archive/
-    
-  - title: "CV"
-    url: /files/CV_Jonathan-Vicente.pdf
-    
+  
   # - title: "Guide"
   # url: /markdown/
+
