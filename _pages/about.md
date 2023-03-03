@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-Bachelor of Science in Biomedicine [Anhembi Morumbi University - UAM](http://https://en.wikipedia.org/wiki/Anhembi_Morumbi_University) (2014 - 2017) with a degree in Clinical Pathology, also certificate in Political Science, with a research thesis ***"Políticas Publica: O processo político de criação do Sistema Unico de Saúde com base na Lei 8080/90"*** at USCS - Municipal University of São Caetano do Sul (2019). MSc in Public Health/Collective Health at the Department of Preventive Medicine of the Faculty of Medicine of the [University of São Paulo - USP](https://en.wikipedia.org/wiki/University_of_S%C3%A3o_Paulo) (2020 - 2022) and associate of the Yale-Proxima Associates Class'21.
+Bachelor of Science in Biomedicine [Anhembi Morumbi University - UAM](http://https://en.wikipedia.org/wiki/Anhembi_Morumbi_University) (2014 - 2017) with a degree in Clinical Pathology, also certificate in Political Science with a research thesis ***"O processo político de criação do Sistema Único de Saúde com base na Lei 8080/90"*** at [USCS - Municipal University of São Caetano do Sul](https://en.wikipedia.org/wiki/Municipal_University_of_S%C3%A3o_Caetano_do_Sul) (2019). MSc in [Public Health/Collective Health](https://sites.usp.br/saudecoletivafmusp/) at the Department of Preventive Medicine of the Faculty of Medicine of the [University of São Paulo - USP](https://en.wikipedia.org/wiki/University_of_S%C3%A3o_Paulo) (2020 - 2022) and associate of the [Yale-Proxima](https://www.iniciativa-proxima.org/) Associates Class'21.
 
 ![Illustration of combining vision and language modalities](/images/capa_2.png){:.align-center width="700px"}
 
