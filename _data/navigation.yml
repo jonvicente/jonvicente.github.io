@@ -3,8 +3,11 @@ main:
   - title: "Talks"
     url: /talks/    
     
-  - title: "CV"
+  - title: "CV-en"
     url: /files/CV_Jonathan-Vicente.pdf
+    
+  - title: "CV-pt"
+    url: http://lattes.cnpq.br/3903769285894597
     
   - title: "Publications"
     url: /publications/
@@ -13,9 +16,7 @@ main:
   - title: "Academia.edu"
     url: https://usp-br.academia.edu/JonathanVicente
     
-  - title: "Lattes"
-    url: http://lattes.cnpq.br/3903769285894597
-    
+
   # - title: "Teaching"
   #  url: /teaching/    
     
