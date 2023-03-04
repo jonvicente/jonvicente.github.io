@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #  url: /talks/    
     
   - title: "CV-en"
     url: /files/CV_Jonathan-Vicente.pdf
@@ -23,8 +23,8 @@ main:
   # - title: "Portfolio"
   #  url: /portfolio/
         
-  # - title: "Blog Posts"
-  # url: /year-archive/
+  - title: "Blog Posts"
+   url: /year-archive/
   
   # - title: "Guide"
   # url: /markdown/
