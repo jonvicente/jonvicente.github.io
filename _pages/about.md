@@ -28,4 +28,3 @@ For more info
 ------
 More info can be found in [my CV](https://jonvicente.github.io/files/CV_Jonathan-Vicente.pdf) or social networks.
 
-google-site-verification: google2e1e5847ed2834df.html
