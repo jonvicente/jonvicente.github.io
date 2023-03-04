@@ -14,8 +14,8 @@ main:
   - title: "Academia.edu"
     url: https://usp-br.academia.edu/JonathanVicente
     
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #  url: /year-archive/
    
   # - title: "Teaching"
   #  url: /teaching/    
