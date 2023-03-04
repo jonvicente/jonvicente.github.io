@@ -9,7 +9,13 @@ main:
   - title: "Publications"
     url: /publications/
     url: https://scholar.google.com.br/citations?user=UhEVsTEAAAAJ&hl=pt-BR
-
+    
+  - title: "Academia.edu"
+    url: https://usp-br.academia.edu/JonathanVicente
+    
+  - title: "Lattes"
+    url: http://lattes.cnpq.br/3903769285894597
+    
   # - title: "Teaching"
   #  url: /teaching/    
     
