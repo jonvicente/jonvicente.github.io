@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hey, I'm Jonathan Vicente"
+title: "Jonathan Vicente (BMedSci, MSc)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -26,5 +26,5 @@ Most of the time, researchers aim to communicate the results of their work to ot
 
 For more info
 ------
-More info can be found [here](https://jonvicente.github.io/files/CV_Jonathan-Vicente.pdf) or [E-mail](mailto:jonathanvice@gmail.com). I do not have regular office hours, please make an appointment via email. Also, **feel free to contact me to discuss any potential research collaborations**.
+I do not have regular office hours, please make an appointment via email. Also, **feel free to contact me to discuss any potential research collaborations**. More info can be found [here](https://jonvicente.github.io/files/CV_Jonathan-Vicente.pdf) or [E-mail](mailto:jonathanvice@gmail.com). 
 
