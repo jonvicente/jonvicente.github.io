@@ -26,5 +26,5 @@ Most of the time, researchers aim to communicate the results of their work to ot
 
 For more info
 ------
-More info can be found in [my CV](https://jonvicente.github.io/files/CV_Jonathan-Vicente.pdf) or social networks.
+More info can be found [here](https://jonvicente.github.io/files/CV_Jonathan-Vicente.pdf) or [E-mail](mailto:jonathanvice@gmail.com). I do not have regular office hours, please make an appointment via email. Also, **feel free to contact me to discuss any potential research collaborations**.
 
