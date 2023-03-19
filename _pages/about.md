@@ -30,7 +30,8 @@ While researchers typically aim to communicate the findings of their work to oth
 
 As an enthusiastic reader, I relish the opportunity to immerse myself in new worlds and explore fresh perspectives through the pages of a good book. Here is a selection of some of the books that have captured my attention and inspired me.
 
-<script type='text/javascript' src='https://www.skoob.com.br/widget/estante/85207/8021115/'> </script>
+<script type='text/javascript' src='https://www.skoob.com.br/widget/estante/85207/8021115/'>
+</script>
 
 For more info
 ------
