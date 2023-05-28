@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
-
 -----
 I hold a Bachelor of Science (BSc) with a major in Biomedicine (BMedSci) from [Anhembi Morumbi University - UAM](http://https://en.wikipedia.org/wiki/Anhembi_Morumbi_University) (2014 - 2017), and also obtained a certificate in Political Science from [USCS - University of São Caetano do Sul](https://en.wikipedia.org/wiki/Municipal_University_of_S%C3%A3o_Caetano_do_Sul) (2019), where I conducted research on the brazilian public health system and politics [***"Political Process for the Creation of the Brazilian Unified Health System (SUS) based on the law 8.080"***](https://www.academia.edu/41132449/POL%C3%8DTICAS_P%C3%9ABLICAS_PROCESSO_POL%C3%8DTICO_DE_CRIA%C3%87%C3%83O_DO_SISTEMA_%C3%9ANICO_DE_SA%C3%9ADE_SUS_COM_BASE_NA_LEI_8_080_90). 
 
