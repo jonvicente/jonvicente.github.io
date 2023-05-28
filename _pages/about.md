@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jonathan Vicente (BMedSci, MSc)"
+title: "Jonathan Vicente"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,8 +17,9 @@ In addition, I have completed a Master of Science (MSc) degree in [Public Health
 
 ![Illustration of combining vision and language modalities](/images/capa_3.png){:.align-center width="700px"}
 
-**Research and Memberships**: [Social](https://en.wikipedia.org/wiki/Social_science) and [Human Sciences](https://en.wikipedia.org/wiki/Human_science) in [Public Health](https://en.wikipedia.org/wiki/Public_health), [Psychiatric Epidemiology](https://en.wikipedia.org/wiki/Psychiatric_epidemiology), [Mental Health](https://en.wikipedia.org/wiki/Mental_health), [Health Policy](https://en.wikipedia.org/wiki/Health_policy), [Preventive Medicine](https://en.wikipedia.org/wiki/Preventive_healthcare) and [Reviews](https://en.wikipedia.org/wiki/Systematic_review). Member of several research groups and organizations, including the [***Ayé Nucleus***](https://www.instagram.com/nucleoaye/), the [***Brazilian League of Black Science***](https://www.instagram.com/lcpbrasileira/) and the Research Group on [***Health, Intersectionality and Social Markers of Difference***](https://sites.usp.br/simas/) (SIMAS) at FMUSP. 
+**Research and Memberships**: [Social](https://en.wikipedia.org/wiki/Social_science) and [Human Sciences](https://en.wikipedia.org/wiki/Human_science) in [Public Health](https://en.wikipedia.org/wiki/Public_health), [Psychiatric Epidemiology](https://en.wikipedia.org/wiki/Psychiatric_epidemiology), [Mental Health](https://en.wikipedia.org/wiki/Mental_health), [Global Mental Health](https://en.wikipedia.org/wiki/Global_mental_health), [Mental Health - Climate Change](https://en.wikipedia.org/wiki/Effects_of_climate_change_on_mental_health), [Suicidology](https://en.wikipedia.org/wiki/Suicidology) and [Preventive Medicine](https://en.wikipedia.org/wiki/Preventive_healthcare). 
 
+Member of several research groups and organizations, including the [***Ayé Nucleus***](https://www.instagram.com/nucleoaye/), the [***Brazilian League of Black Science***](https://www.instagram.com/lcpbrasileira/) and the Research Group on [***Health, Intersectionality and Social Markers of Difference***](https://sites.usp.br/simas/) (SIMAS) at FMUSP. Member of the [***National Suicide Prevention Alliance (United Kingdom)***](https://nspa.org.uk/) and Member of the [***Global Mental Health Action Network***](https://gmhan.org/). 
 
 Futhermore, I have served as a member of the working group for affirmative action in the *Graduate Programme in Collective Health* at the Department of Preventive Medicine - FMUSP, and as a student representative (leader) on the [**FMUSP - Graduate Committee**](https://www.fm.usp.br/posgrad/portal/comissao-de-pos-graduacao) (2021 - 2022). I have also supervised the [UC4: Process Health-Disease-Care I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=MSP1041) (MSP1041-MSP1042-MSP1043) at the Faculty of Medicine of USP.
 
