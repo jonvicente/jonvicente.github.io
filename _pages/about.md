@@ -17,7 +17,9 @@ In addition, I have completed a Master of Science (MSc) degree in [Public Health
 
 ![Illustration of combining vision and language modalities](/images/capa_3.png){:.align-center width="700px"}
 
-**Research and Memberships**: [Social](https://en.wikipedia.org/wiki/Social_science) and [Human Sciences](https://en.wikipedia.org/wiki/Human_science) in [Public Health](https://en.wikipedia.org/wiki/Public_health), [Psychiatric Epidemiology](https://en.wikipedia.org/wiki/Psychiatric_epidemiology), [Mental Health](https://en.wikipedia.org/wiki/Mental_health), [Global Mental Health](https://en.wikipedia.org/wiki/Global_mental_health), [Mental Health - Climate Change](https://en.wikipedia.org/wiki/Effects_of_climate_change_on_mental_health), [Suicidology](https://en.wikipedia.org/wiki/Suicidology) and [Preventive Medicine](https://en.wikipedia.org/wiki/Preventive_healthcare). 
+Research and Memberships
+-----
+[Social](https://en.wikipedia.org/wiki/Social_science) and [Human Sciences](https://en.wikipedia.org/wiki/Human_science) in [Public Health](https://en.wikipedia.org/wiki/Public_health), [Psychiatric Epidemiology](https://en.wikipedia.org/wiki/Psychiatric_epidemiology), [Mental Health](https://en.wikipedia.org/wiki/Mental_health), [Global Mental Health](https://en.wikipedia.org/wiki/Global_mental_health), [Mental Health - Climate Change](https://en.wikipedia.org/wiki/Effects_of_climate_change_on_mental_health), [Suicidology](https://en.wikipedia.org/wiki/Suicidology) and [Preventive Medicine](https://en.wikipedia.org/wiki/Preventive_healthcare). 
 
 Member of several research groups and organizations, including the [***Ayé Nucleus***](https://www.instagram.com/nucleoaye/), the [***Brazilian League of Black Science***](https://www.instagram.com/lcpbrasileira/) and the Research Group on [***Health, Intersectionality and Social Markers of Difference***](https://sites.usp.br/simas/) (SIMAS) at FMUSP. Member of the [***National Suicide Prevention Alliance (United Kingdom)***](https://nspa.org.uk/) and Member of the [***Global Mental Health Action Network***](https://gmhan.org/). 
 
