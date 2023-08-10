@@ -25,8 +25,6 @@ Member of several research groups and organizations:
 * Member of the [***Global Mental Health Action Network***](https://gmhan.org/).
 * Member of [***The Global Climate & Health Alliance***](https://climateandhealthalliance.org/)
 
-Furthermore, I have served as a member of the working group for affirmative action in the *Graduate Programme in Collective Health* at the Department of Preventive Medicine - FMUSP, and as a student representative (leader) on the [FMUSP - Graduate Committee](https://www.fm.usp.br/posgrad/portal/comissao-de-pos-graduacao) (2021 - 2022). I have also supervised the [UC4: Process Health-Disease-Care I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=MSP1041) (MSP1041-MSP1042-MSP1043) at the Faculty of Medicine of USP.
-
 Science Communication
 -----
 While researchers typically aim to communicate the findings of their work to other researchers, there are instances where they may wish to convey their research to a broader audience, including policymakers and the general public. As a researcher with experience in science communication, I have compiled a collection of my work to assist fellow scientists in effectively communicating their research to these diverse audiences on twitter. 
