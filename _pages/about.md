@@ -18,9 +18,14 @@ Research and Memberships
 -----
 My primary focus is to comprehensively comprehend the intricate interplay between climate change and its profound physical and mental health impacts. I delve into the realms of Public Health Psychiatric Epidemiology, Suicidology, and Global Mental Health, meticulously investigating how these multifaceted disciplines converge under the influence of climate change. Additionally, I explore the repercussions of disease outbreaks within the context of mental health, uncovering the intricate links that bind these domains in the face of shifting environmental dynamics. 
 
-Member of several research groups and organizations, including the [***Ayé Nucleus***](https://www.instagram.com/nucleoaye/), the [***Brazilian League of Black Science***](https://www.instagram.com/lcpbrasileira/) and the Research Group on [***Health, Intersectionality and Social Markers of Difference***](https://sites.usp.br/simas/) (SIMAS) at FMUSP. Member of the [***National Suicide Prevention Alliance (United Kingdom)***](https://nspa.org.uk/) and Member of the [***Global Mental Health Action Network***](https://gmhan.org/). 
+Member of several research groups and organizations:
+* Member of the [***Nucleo Ayé***](https://www.instagram.com/nucleoaye/)
+* the Research Group on [***Health, Intersectionality and Social Markers of Difference***](https://sites.usp.br/simas/) (SIMAS) at FMUSP.
+* Member of the [***National Suicide Prevention Alliance (United Kingdom)***](https://nspa.org.uk/)
+* Member of the [***Global Mental Health Action Network***](https://gmhan.org/).
+* Member of [***The Global Climate & Health Alliance***](https://climateandhealthalliance.org/)
 
-Futhermore, I have served as a member of the working group for affirmative action in the *Graduate Programme in Collective Health* at the Department of Preventive Medicine - FMUSP, and as a student representative (leader) on the [FMUSP - Graduate Committee](https://www.fm.usp.br/posgrad/portal/comissao-de-pos-graduacao) (2021 - 2022). I have also supervised the [UC4: Process Health-Disease-Care I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=MSP1041) (MSP1041-MSP1042-MSP1043) at the Faculty of Medicine of USP.
+Furthermore, I have served as a member of the working group for affirmative action in the *Graduate Programme in Collective Health* at the Department of Preventive Medicine - FMUSP, and as a student representative (leader) on the [FMUSP - Graduate Committee](https://www.fm.usp.br/posgrad/portal/comissao-de-pos-graduacao) (2021 - 2022). I have also supervised the [UC4: Process Health-Disease-Care I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=MSP1041) (MSP1041-MSP1042-MSP1043) at the Faculty of Medicine of USP.
 
 Science Communication
 -----
