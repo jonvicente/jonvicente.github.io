@@ -20,7 +20,7 @@ My primary focus is to comprehensively comprehend the intricate interplay betwee
 
 Member of several research groups and organizations:
 * Member of the [***Nucleo Ayé***](https://www.instagram.com/nucleoaye/)
-* the Research Group on [***Health, Intersectionality and Social Markers of Difference***](https://sites.usp.br/simas/) (SIMAS) at FMUSP.
+* the Research Group on [***Health, Intersectionality and Social Markers of Difference***](https://sites.usp.br/simas/).
 * Member of the [***National Suicide Prevention Alliance (United Kingdom)***](https://nspa.org.uk/)
 * Member of the [***Global Mental Health Action Network***](https://gmhan.org/).
 * Member of [***The Global Climate & Health Alliance***](https://climateandhealthalliance.org/)
