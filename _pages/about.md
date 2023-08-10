@@ -24,6 +24,8 @@ Member of several research groups and organizations:
 * Member of the [***National Suicide Prevention Alliance (United Kingdom)***](https://nspa.org.uk/)
 * Member of the [***Global Mental Health Action Network***](https://gmhan.org/).
 * Member of [***The Global Climate & Health Alliance***](https://climateandhealthalliance.org/)
+* Member of the [***Mental Health Innovation Network***](https://www.mhinnovation.net/profile/jonathan-vicente)
+* Member of the [***Planetary Health Alliance***](https://www.planetaryhealthalliance.org/) 
 
 Science Communication
 -----
