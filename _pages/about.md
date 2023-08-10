@@ -16,7 +16,7 @@ In addition, I have completed a Master of Science (MSc) degree in Public Health 
 
 Research and Memberships
 -----
-My primary focus is to comprehensively comprehend the intricate interplay between climate change and its profound physical and mental health impacts. I delve into the realms of Public Health Psychiatric Epidemiology, Suicidology, and Global Mental Health, meticulously investigating how these multifaceted disciplines converge under the influence of climate change. Additionally, I explore the repercussions of disease outbreaks within the context of mental health, uncovering the intricate links that bind these domains in the face of shifting environmental dynamics. 
+My primary focus is to comprehensively comprehend the intricate interplay between climate change and its profound physical and mental health impacts. I delve into the realms of Public Health, Psychiatric Epidemiology, Suicidology and Global Mental Health, meticulously investigating how these multifaceted disciplines converge under the influence of climate change. Additionally, I explore the repercussions of disease outbreaks within the context of mental health, uncovering the intricate links that bind these domains in the face of shifting environmental dynamics. 
 
 Member of several research groups and organizations:
 * Member of the [***Nucleo Ayé***](https://www.instagram.com/nucleoaye/)
