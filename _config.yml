@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Jonathan Vicente"
   avatar           : "Image_1.jpg"
-  bio              : "BMedSci, MSc - Psychiatric and Environmental Epidemiology"
+  bio              : "BMedSci, MSc - Mental Health, Climate and Environmental Epidemiology"
   location         : "São Paulo, Brazil"
   employer         :
-  pubmed           : 
+  PubMed           : "https://www.ncbi.nlm.nih.gov/myncbi/jonathan.vicente.1/bibliography/public/"
   googlescholar    : "http://scholar.google.com/citations?user=UhEVsTEAAAAJ"
   email            : "jonathanvice@gmail.com"
   researchgate     : "https://researchgate.net/profile/Jonathan-Ferreira-10"
