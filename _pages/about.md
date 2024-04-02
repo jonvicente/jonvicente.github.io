@@ -27,9 +27,6 @@ Member of several research groups and organizations:
 * Member of the [***Mental Health Innovation Network***](https://www.mhinnovation.net/profile/jonathan-vicente)
 * Member of the [***Planetary Health Alliance***](https://www.planetaryhealthalliance.org/) 
 
-![Illustration of combining vision and language modalities](/images/jonathan-vicente.jpg){:.align-center width="900px"}
-
-
 Science Communication
 -----
 While researchers typically aim to communicate the findings of their work to other researchers, there are instances where they may wish to convey their research to a broader audience, including policymakers and the general public. As a researcher with experience in science communication, I have compiled a collection of my work to assist fellow scientists in effectively communicating their research to these diverse audiences on twitter. 
