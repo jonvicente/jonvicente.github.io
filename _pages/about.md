@@ -12,9 +12,6 @@ Bachelor of Science (BSc) with a major in Biomedicine (BMedSci) from **Anhembi M
 
 In addition, I have completed a Master of Science (MSc) degree in Public Health from the Department of Preventive Medicine at the Faculty of Medicine of the **University of São Paulo - USP** (2020 - 2022) where I conducted a research thesis [**"The Influence of COVID-19 on Mental Health of Health Workers in the Hospital and Intensive Care Unit: Scoping Review"**](https://doi.org/10.11606/D.5.2023.tde-08052023-155935). I was also an associate of the [Yale-Iniciativa Proxima](https://www.iniciativa-proxima.org/) Associates Class'21.
 
-![Illustration of combining vision and language modalities](/images/jonathan-vicente.jpg){:.align-center width="900px"}
-
-
 Research and Memberships
 -----
 My primary focus is to comprehensively comprehend the intricate interplay between climate change/variables and its profound physical and mental health impacts. I delve into the realms of Public Health, Global Mental Health, Psychiatric Epidemiology, Suicidology, Environmental & Climate Epidemiology, meticulously investigating how these multifaceted disciplines converge under the influence of climate change. Additionally, I explore the repercussions of disease outbreaks within the context of mental health, uncovering the intricate links that bind these domains in the face of shifting environmental dynamics. 
@@ -29,6 +26,9 @@ Member of several research groups and organizations:
 * Member of [***The Global Climate & Health Alliance***](https://climateandhealthalliance.org/)
 * Member of the [***Mental Health Innovation Network***](https://www.mhinnovation.net/profile/jonathan-vicente)
 * Member of the [***Planetary Health Alliance***](https://www.planetaryhealthalliance.org/) 
+
+![Illustration of combining vision and language modalities](/images/jonathan-vicente.jpg){:.align-center width="900px"}
+
 
 Science Communication
 -----
