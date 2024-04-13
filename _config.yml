@@ -10,7 +10,6 @@ locale                   : "en-US"
 title                    : "Jonathan's Homepage"
 title_separator          : "-"
 name                     : &name "Jonathan Vicente"
-pronouns                 : "he/him"
 description              : &description "personal description"
 url                      : https://jonvicente.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,6 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jonathan Vicente"
+  pronouns         : "he/him"
   avatar           : "Image_1.jpg"
   bio              : "BMedSci, MSc - Mental Health, Climate and Environmental Epidemiology"
   location         : "São Paulo, Brazil"
