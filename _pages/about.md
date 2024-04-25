@@ -34,12 +34,13 @@ Science Communication
 While researchers typically aim to communicate the findings of their work to other researchers, there are instances where they may wish to convey their research to a broader audience, including policymakers and the general public. As a researcher with experience in science communication, I have compiled a collection of my work to assist fellow scientists in effectively communicating their research to these diverse audiences on X (former twitter). 
 
 <a class="twitter-timeline" data-height="300" data-theme="light" href="https://twitter.com/jonathanvicent?ref_src=twsrc%5Etfw">Tweets by jonathanvicent</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-For more info
-------
 
+------
+For more info
+-----
 **If you require any further information, feel free to contact me to discuss, or any potential research collaborations**. More info can be found [here](https://jonvicente.github.io/files/CV_Jonathan-Vicente.pdf) or [e-mail](mailto:jonathanvice@gmail.com). 
 
-I am using [calendly](https://calendly.com/jonathanvicente) to help you schedule meetings without the back-and-forth emails. Please, kindly follow the instructions to book a meeting on my calendar during the available time slots. 
+I am using [calendly](https://calendly.com/jonathanvicente) to help you schedule meetings without the back-and-forth emails. Please, kindly **follow the instructions to book a meeting on my calendar** during the available time slots. 
 
 ------
 <script src="https://climateclock.world/widget-v2.js" async></script>
