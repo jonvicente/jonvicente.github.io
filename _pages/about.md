@@ -37,7 +37,7 @@ While researchers typically aim to communicate the findings of their work to oth
 
 ------
 
-**If you require any further information, feel free to contact me to discuss, or any potential research collaborations**. More info can be found [here](https://jonvicente.github.io/files/CV_Jonathan-Vicente.pdf) or [e-mail](mailto:jonathanvice@gmail.com). 
+If you require any further information, **feel free to contact me to discuss, or any potential research collaborations**. More info can be found [here](https://jonvicente.github.io/files/CV_Jonathan-Vicente.pdf) or [e-mail](mailto:jonathanvice@gmail.com). 
 
 I am using [calendly](https://calendly.com/jonathanvicente) to help you schedule meetings without the back-and-forth emails. Please, kindly **follow the instructions to book a meeting on my calendar** during the available time slots. 
 
