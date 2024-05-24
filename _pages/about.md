@@ -19,6 +19,7 @@ My primary focus is to comprehensively comprehend the intricate interplay betwee
 
 <style>.climate-clock{position:relative;padding-bottom:120%;height:0;overflow:hidden;max-width:100%;}.climate-clock iframe{position:absolute;top:0;left:0;width:100%;height:100%;}@media(min-width:700px){.climate-clock{padding-bottom:56.25%;}}</style><div class='climate-clock'><iframe src='//embed.climateclock.net?buttons=1&audio=0' style='border:0'></iframe></div>
 
+
 Member of several research groups and organizations:
 * Member of the [***Nucleo Ayé***](https://www.instagram.com/nucleoaye/)
 * the Research Group on [***Health, Intersectionality and Social Markers of Difference***](https://sites.usp.br/simas/).
