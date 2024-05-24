@@ -12,7 +12,10 @@ Bachelor of Science (BSc) with a major in Biomedicine (BMedSci) from **Anhembi M
 
 In addition, I have completed a Master of Science (MSc) degree in Public Health from the Department of Preventive Medicine at the Faculty of Medicine of the **University of São Paulo - USP** (2020 - 2022) where I conducted a research thesis [**"The Influence of COVID-19 on Mental Health of Health Workers in the Hospital and Intensive Care Unit: Scoping Review"**](https://doi.org/10.11606/D.5.2023.tde-08052023-155935). I was also an associate of the [Yale-Iniciativa Proxima](https://www.iniciativa-proxima.org/) Associates Class'21.
 
+------
 ![Illustration of combining vision and language modalities](/images/climate_montage.webp){:.align-center width="900px"}
+
+------
 
 Research and Memberships
 -----
