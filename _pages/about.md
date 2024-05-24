@@ -17,18 +17,15 @@ Research and Memberships
 -----
 My primary focus is to comprehensively comprehend the intricate interplay between climate change/variables and its profound physical and mental health impacts. I delve into the realms of Public Health, Global Mental Health, Psychiatric Epidemiology, Suicidology, Environmental & Climate Epidemiology, meticulously investigating how these multifaceted disciplines converge under the influence of climate change. Additionally, I explore the repercussions of disease outbreaks within the context of mental health, uncovering the intricate links that bind these domains in the face of shifting environmental dynamics. 
 
-![Illustration of combining vision and language modalities](/images/climate_montage.webp){:.align-center width="900px"}
+<style>.climate-clock{position:relative;padding-bottom:120%;height:0;overflow:hidden;max-width:100%;}.climate-clock iframe{position:absolute;top:0;left:0;width:100%;height:100%;}@media(min-width:700px){.climate-clock{padding-bottom:56.25%;}}</style><div class='climate-clock'><iframe src='//embed.climateclock.net?buttons=1&audio=0' style='border:0'></iframe></div>
 
 Member of several research groups and organizations:
 * Member of the [***Nucleo Ayé***](https://www.instagram.com/nucleoaye/)
 * the Research Group on [***Health, Intersectionality and Social Markers of Difference***](https://sites.usp.br/simas/).
-* Member of the [***National Suicide Prevention Alliance (United Kingdom)***](https://nspa.org.uk/)
 * Member of the [***Global Mental Health Action Network***](https://gmhan.org/).
 * Member of [***The Global Climate & Health Alliance***](https://climateandhealthalliance.org/)
 * Member of the [***Mental Health Innovation Network***](https://www.mhinnovation.net/profile/jonathan-vicente)
-* Member of the [***Planetary Health Alliance***](https://www.planetaryhealthalliance.org/) 
 
-![Illustration of combining vision and language modalities](/images/jonathan-vicente.jpg){:.align-center width="900px"}
 
 Science Communication
 -----
@@ -43,5 +40,6 @@ If you require any further information, **feel free to contact me to discuss, or
 I am using [calendly](https://calendly.com/jonathanvicente) to help you schedule meetings without the back-and-forth emails. Please, kindly **follow the instructions to book a meeting on my calendar** during the available time slots. 
 
 ------
-<style>.climate-clock{position:relative;padding-bottom:120%;height:0;overflow:hidden;max-width:100%;}.climate-clock iframe{position:absolute;top:0;left:0;width:100%;height:100%;}@media(min-width:700px){.climate-clock{padding-bottom:56.25%;}}</style><div class='climate-clock'><iframe src='//embed.climateclock.net?buttons=1&audio=0' style='border:0'></iframe></div>
+
+![Illustration of combining vision and language modalities](/images/jonathan-vicente.jpg){:.align-center width="900px"}
 
