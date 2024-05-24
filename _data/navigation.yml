@@ -14,8 +14,8 @@ main:
   - title: "Academia.edu"
     url: https://usp-br.academia.edu/JonathanVicente
     
-  # - title: "Climate Clock"
-  #  url: /year-archive/
+  - title: "Climate Clock"
+    url: /publications/
    
   # - title: "Teaching"
   #  url: /teaching/    
