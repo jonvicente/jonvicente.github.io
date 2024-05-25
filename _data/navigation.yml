@@ -20,8 +20,8 @@ main:
   - title: "Climate Clock"
     url: /climate-clock/    
     
-  - title: "about me"
-    url: /teaching/
+  - title: "About me"
+    url: /about-me/
         
   # - title: "Talks"
   #  url: /talks/    
