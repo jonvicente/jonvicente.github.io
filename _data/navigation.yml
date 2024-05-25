@@ -1,15 +1,21 @@
 # main links links
 main:
 
+  - title: "About me"
+    url: /about-me/
+    
   - title: "Publications"
     url: /publications/
     url: https://scholar.google.com.br/citations?user=UhEVsTEAAAAJ&hl=pt-BR
+
+  - title: "Climate Clock"
+    url: /climate-clock/    
     
-  - title: "CV-en"
-    url: /files/CV_Jonathan_Vicente_en.pdf
+  # - title: "CV-en"
+  #  url: /files/CV_Jonathan_Vicente_en.pdf
     
-  - title: "CV-pt"
-    url: http://lattes.cnpq.br/3903769285894597
+  # - title: "CV-pt"
+  #  url: http://lattes.cnpq.br/3903769285894597
        
   - title: "Academia.edu"
     url: https://usp-br.academia.edu/JonathanVicente
@@ -17,11 +23,9 @@ main:
   - title: "#SciComm"
     url: /sci-comm/
 
-  - title: "Climate Clock"
-    url: /climate-clock/    
+
     
-  - title: "About me"
-    url: /about-me/
+
         
   # - title: "Talks"
   #  url: /talks/    
