@@ -17,8 +17,8 @@ main:
   - title: "#SciComm"
     url: /year-archive/
 
-  # - title: "Teaching"
-  #  url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
   # - title: "Bookshop"
   #  url: https://www.amazon.com.br/shop/jonathanvicentt
