@@ -18,9 +18,6 @@ Research and Memberships
 -----
 My primary focus is to comprehensively comprehend the intricate interplay between climate change/variables and its profound physical and mental health impacts. I delve into the realms of Public Health, Global Mental Health, Psychiatric Epidemiology, Suicidology, Environmental & Climate Epidemiology, meticulously investigating how these multifaceted disciplines converge under the influence of climate change. Additionally, I explore the repercussions of disease outbreaks within the context of mental health, uncovering the intricate links that bind these domains in the face of shifting environmental dynamics. 
 
-![Illustration of combining vision and language modalities](/images/climate_stripes_2.jfif){:.align-center width="900px"}
-
-
 Member of several research groups and organizations:
 * Member of the [***Nucleo Ayé***](https://www.instagram.com/nucleoaye/)
 * the Research Group on [***Health, Intersectionality and Social Markers of Difference***](https://sites.usp.br/simas/).
@@ -33,7 +30,7 @@ Science Communication
 -----
 While researchers typically aim to communicate the findings of their work to other researchers, there are instances where they may wish to convey their research to a broader audience, including policymakers and the general public. As a researcher with experience in science communication, I have compiled a collection of my work to assist fellow scientists in effectively communicating their research to these diverse audiences on X (former twitter). 
 
-<a class="twitter-timeline" data-height="900" data-theme="light" href="https://twitter.com/jonathanvicent?ref_src=twsrc%5Etfw">Tweets by jonathanvicent</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height="400" data-theme="light" href="https://twitter.com/jonathanvicent?ref_src=twsrc%5Etfw">Tweets by jonathanvicent</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ------
 
