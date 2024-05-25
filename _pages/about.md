@@ -13,14 +13,6 @@ My primary focus is to comprehensively comprehend the intricate interplay betwee
 
 ![Illustration of combining vision and language modalities](/images/climate_stripes_2.jfif){:.align-center width="900px"}
 
-
-Member of several research groups and organizations:
-* Member of the [***Nucleo Ayé***](https://www.instagram.com/nucleoaye/)
-* the Research Group on [***Health, Intersectionality and Social Markers of Difference***](https://sites.usp.br/simas/).
-* Member of the [***Global Mental Health Action Network***](https://gmhan.org/).
-* Member of [***The Global Climate & Health Alliance***](https://climateandhealthalliance.org/)
-* Member of the [***Mental Health Innovation Network***](https://www.mhinnovation.net/profile/jonathan-vicente)
-
 ------
 
 If you require any further information, **feel free to contact me to discuss, or any potential research collaborations**. More info can be found [here](https://jonvicente.github.io/files/CV_Jonathan-Vicente.pdf) or [e-mail](mailto:jonathanvice@gmail.com). 
