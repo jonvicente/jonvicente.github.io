@@ -20,6 +20,3 @@ If you require any further information, **feel free to contact me to discuss, or
 I am using [calendly](https://calendly.com/jonathanvicente) to help you schedule meetings without the back-and-forth emails. Please, kindly **follow the instructions to book a meeting on my calendar** during the available time slots. 
 
 ------
-
-![Illustration of combining vision and language modalities](/images/jonathan-vicente.jpg){:.align-center width="900px"}
-
