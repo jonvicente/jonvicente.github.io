@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-BMedSci | MPh
+BMedSci | MSc - Mental Health, Climate and Environmental Epidemiology
 -----
 My primary focus is to comprehensively comprehend the intricate interplay between climate change/variables and its profound physical and mental health impacts. I delve into the realms of Public Health, Global Mental Health, Psychiatric Epidemiology, Suicidology, Environmental & Climate Epidemiology, meticulously investigating how these multifaceted disciplines converge under the influence of climate change. Additionally, I explore the repercussions of disease outbreaks within the context of mental health, uncovering the intricate links that bind these domains in the face of shifting environmental dynamics. 
 
