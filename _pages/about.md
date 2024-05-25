@@ -26,8 +26,6 @@ Member of several research groups and organizations:
 * Member of [***The Global Climate & Health Alliance***](https://climateandhealthalliance.org/)
 * Member of the [***Mental Health Innovation Network***](https://www.mhinnovation.net/profile/jonathan-vicente)
 
-![Illustration of combining vision and language modalities](/images/climate_stripes.png){:.align-center width="900px"}
-
 
 Science Communication
 -----
