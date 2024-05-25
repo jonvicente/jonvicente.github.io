@@ -10,6 +10,9 @@ main:
 
   - title: "Climate Clock"
     url: /climate-clock/    
+
+  - title: "#SciComm"
+    url: /sci-comm/
     
   # - title: "CV-en"
   #  url: /files/CV_Jonathan_Vicente_en.pdf
@@ -17,14 +20,10 @@ main:
   # - title: "CV-pt"
   #  url: http://lattes.cnpq.br/3903769285894597
        
-  - title: "Academia.edu"
-    url: https://usp-br.academia.edu/JonathanVicente
+  # - title: "Academia.edu"
+  #  url: https://usp-br.academia.edu/JonathanVicente
     
-  - title: "#SciComm"
-    url: /sci-comm/
-
-
-    
+  
 
         
   # - title: "Talks"
