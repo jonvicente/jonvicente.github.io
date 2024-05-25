@@ -13,9 +13,9 @@ My primary focus is to comprehensively comprehend the intricate interplay betwee
 
 ![Illustration of combining vision and language modalities](/images/climate_stripes_2.jfif){:.align-center width="900px"}
 
-Climate stripes are a visual representation of the long-term rise in global temperatures. Created by climate scientist Ed Hawkins in 2018, these colorful stripes illustrate changes in annual average temperatures over time. Each stripe represents a single year, with shades of blue indicating cooler years and shades of red indicating warmer years. The simplicity and immediacy of this design make it an effective tool for communicating climate change to a broad audience, highlighting the trend of global warming in a clear, impactful manner.
+**Climate stripes** visually represent the rise in global temperatures. Created by Ed Hawkins in 2018, each stripe represents a year, with blue for cooler years and red for warmer years. Their simplicity effectively communicates climate change, highlighting the warming trend clearly.
 
-Climate stripes can also be generated using temperature anomalies from various baseline periods. A baseline period is a span of years used to calculate the average temperature, against which anomalies (deviations from this average) are measured. Common baseline periods include 1951-1980, 1961-1990, and 1981-2010. By using different baselines, the climate stripes can highlight how temperature deviations compare to different historical norms. For instance, using a more recent baseline period may show more pronounced warming in recent years, while an earlier baseline may provide a longer historical perspective. This approach can help underscore the consistency of warming trends across different periods and emphasize the urgency of addressing climate change.
+**Baseline periods** can be used to generate climate stripes, comparing temperature anomalies against different historical averages, such as 1951-1980, 1961-1990, and 1981-2010. Using various baselines shows how recent warming trends compare to past norms, emphasizing the urgency of addressing climate change.
 
 ------
 
