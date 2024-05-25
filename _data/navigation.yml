@@ -18,10 +18,10 @@ main:
     url: /sci-comm/
 
   - title: "Climate Clock"
-    url: /teaching/    
+    url: /climate-clock/    
     
-  # - title: "Bookshop"
-  #  url: https://www.amazon.com.br/shop/jonathanvicentt
+  - title: "about me"
+    url: /teaching/
         
   # - title: "Talks"
   #  url: /talks/    
