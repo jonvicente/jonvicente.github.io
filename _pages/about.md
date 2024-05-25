@@ -8,16 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Bachelor of Science (BSc) with a major in Biomedicine (BMedSci) from **Anhembi Morumbi University - UAM** (2014 - 2017), and also obtained a certificate in Political Science from **USCS - the University of São Caetano do Sul** (2019), where I researched the Brazilian public health system and politics [**"Political Process for the Creation of the Brazilian Unified Health System (SUS) based on the law 8.080"**](https://www.academia.edu/41132449/POL%C3%8DTICAS_P%C3%9ABLICAS_PROCESSO_POL%C3%8DTICO_DE_CRIA%C3%87%C3%83O_DO_SISTEMA_%C3%9ANICO_DE_SA%C3%9ADE_SUS_COM_BASE_NA_LEI_8_080_90).
+Bachelor of Science (BSc) with a major in Biomedicine (BMedSci) from **Anhembi Morumbi University - UAM** (2014 - 2017), and also obtained a certificate in Political Science from **USCS - the University of São Caetano do Sul** (2019 - 2020), where I researched the Brazilian public health system and politics [**"Political Process for the Creation of the Brazilian Unified Health System (SUS) based on the law 8.080"**](https://www.academia.edu/41132449/POL%C3%8DTICAS_P%C3%9ABLICAS_PROCESSO_POL%C3%8DTICO_DE_CRIA%C3%87%C3%83O_DO_SISTEMA_%C3%9ANICO_DE_SA%C3%9ADE_SUS_COM_BASE_NA_LEI_8_080_90).
 
 In addition, I have completed a Master of Science (MSc) degree in Public Health from the Department of Preventive Medicine at the Faculty of Medicine of the **University of São Paulo - USP** (2020 - 2022) where I conducted a research thesis [**"The Influence of COVID-19 on Mental Health of Health Workers in the Hospital and Intensive Care Unit: Scoping Review"**](https://doi.org/10.11606/D.5.2023.tde-08052023-155935). I was also an associate of the [Yale-Iniciativa Proxima](https://www.iniciativa-proxima.org/) Associates Class'21.
 
+![Illustration of combining vision and language modalities](/images/climate_montage.webp){:.align-center width="900px"}
 
 Research and Memberships
 -----
 My primary focus is to comprehensively comprehend the intricate interplay between climate change/variables and its profound physical and mental health impacts. I delve into the realms of Public Health, Global Mental Health, Psychiatric Epidemiology, Suicidology, Environmental & Climate Epidemiology, meticulously investigating how these multifaceted disciplines converge under the influence of climate change. Additionally, I explore the repercussions of disease outbreaks within the context of mental health, uncovering the intricate links that bind these domains in the face of shifting environmental dynamics. 
-
-<style>.climate-clock{position:relative;padding-bottom:120%;height:0;overflow:hidden;max-width:100%;}.climate-clock iframe{position:absolute;top:0;left:0;width:100%;height:100%;}@media(min-width:700px){.climate-clock{padding-bottom:56.25%;}}</style><div class='climate-clock'><iframe src='//embed.climateclock.net?buttons=1&audio=0' style='border:0'></iframe></div>
 
 
 Member of several research groups and organizations:
