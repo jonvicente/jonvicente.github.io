@@ -14,8 +14,8 @@ main:
   - title: "#SciComm"
     url: /sci-comm/
     
-  # - title: "CV-en"
-  #  url: /files/CV_Jonathan_Vicente_en.pdf
+  - title: "#CC&H"
+    url: /cc_health/
     
   # - title: "CV-pt"
   #  url: http://lattes.cnpq.br/3903769285894597
