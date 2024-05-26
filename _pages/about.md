@@ -18,6 +18,10 @@ My primary focus is to comprehensively comprehend the intricate interplay betwee
 
 **Baseline periods** can be used to generate climate stripes, comparing temperature anomalies against different historical averages, such as 1951-1980, 1961-1990, and 1981-2010. Using various baselines shows how recent warming trends compare to past norms, emphasizing the urgency of addressing climate change.
 
+Climate Change & Health - #CC&H
+--
+Climate change poses a significant threat to human health through both **direct and indirect pathways**, such as extreme weather events, deteriorating air quality, the spread of vector-borne diseases and the psychological toll on mental health. The stress and anxiety associated with extreme weather events, displacement, and the destruction of homes and livelihoods can lead to severe mental health consequences, including **depression and anxiety**. Vulnerable populations, including children, the elderly, and low-income communities, face heightened risks. Addressing these health impacts necessitates robust mitigation efforts to reduce greenhouse gas emissions and comprehensive adaptation strategies to strengthen healthcare infrastructure and resilience. International and local initiatives are crucial in developing effective responses to safeguard public health in the face of a changing climate. For more detailed information, visit our **"#CC&H"** section directly.
+
 ------
 If you require any further information, **feel free to contact me to discuss, or any potential research collaborations**. More info can be found [here](https://jonvicente.github.io/files/CV_Jonathan-Vicente.pdf) or [e-mail](mailto:jonathanvice@gmail.com). 
 
