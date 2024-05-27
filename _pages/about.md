@@ -10,7 +10,7 @@ redirect_from:
 
 BMedSci | MSc - Mental Health and Climate Epidemiology
 --
-My primary focus is to understand the intricate interplay between climate change and its profound physical and mental health impacts. I delve into Public Health, Global Mental Health, Psychiatric Epidemiology, Suicidology, and Environmental & Climate Epidemiology, investigating how these fields converge under the influence of climate change. Additionally, I explore the mental health repercussions of disease outbreaks, uncovering the links between these domains amid shifting environmental dynamics.
+My primary focus is to understand the intricate interplay between climate change and its profound physical and mental health impacts. I have been working on Public Health, Global Mental Health, Psychiatric Epidemiology, Suicidology, and Environmental & Climate Epidemiology, investigating how these different fields converge under the influence of climate change. Additionally, I explore the mental health repercussions of disease outbreaks, uncovering the links between these domains amid shifting environmental dynamics around the world, especially in Brazil, Switzerland and The Gambia.
 
 ![Illustration of combining vision and language modalities](/images/climate_stripes_2.jfif){:.align-center width="900px"}
 
