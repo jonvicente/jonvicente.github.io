@@ -7,15 +7,17 @@ main:
   - title: "Publications"
     url: /publications/
     url: https://scholar.google.com.br/citations?user=UhEVsTEAAAAJ&hl=pt-BR
-
-  - title: "Climate Clock"
-    url: /climate-clock/    
-
-  - title: "#SciComm"
-    url: /sci-comm/
     
   - title: "#CC&H"
     url: /cc_health/
+    
+  - title: "Climate Clock"
+    url: /climate-clock/    
+    
+  - title: "#SciComm"
+    url: /sci-comm/
+    
+
     
   # - title: "CV-pt"
   #  url: http://lattes.cnpq.br/3903769285894597
