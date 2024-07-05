@@ -14,8 +14,9 @@ My main research focus is understanding how climate change impacts the physical 
 
 Since July 2024, I have been a PhD student in Ana M Vicedo-Cabrera's research group **(Climate Change and Health)** at the **Oeschger-Zentrum für Klimaforschung** (Oeschger Centre for Climate Change Research) and the **Institut für Sozial- und Präventivmedizin** (Institute of Social and Preventive Medicine) at the University of Bern in Switzerland. My PhD research involves investigating the psychological consequences of extreme weather events and climate-related hazards to understand the effects of climate change on mental health in Switzerland and The Gambia.
 
-![Illustration of combining vision and language modalities](/images/ClimateStripesLat.gif){:.align-center width="900px"}
-
+<iframe width="100%" height="101" frameborder="0"
+  src="https://observablehq.com/embed/@fkohlgrueber/warming-stripes?cells=viewof+world_monthly_slider"></iframe>
+  
 ![Illustration of combining vision and language modalities](/images/climate_stripes_2.jfif){:.align-center width="900px"}
 
 **Climate stripes** visually represent the rise in global temperatures. Created by Ed Hawkins in 2018, each stripe represents a year, with blue for cooler and red for warmer years. Their simplicity effectively communicates climate change, highlighting the warming trend.
