@@ -16,7 +16,7 @@ Since July 2024, I have been a PhD student in Ana M Vicedo-Cabrera's research gr
 
 ![Illustration of combining vision and language modalities](/images/warming_stripes.gif){:.align-center width="900px"}
 
-**Climate stripes** visually represent the rise in global temperatures. Created by Ed Hawkins in 2018, each stripe represents a year, with blue for cooler and red for warmer years. Their simplicity effectively communicates climate change, highlighting the warming trend.
+**Climate stripes** visually represent the rise in global temperatures. Created by Ed Hawkins in 2018, each stripe represents a period, with blue for cooler and red for warmer periods. Their simplicity effectively communicates climate change, highlighting the warming trend.
 
 ------
 If you need any more information, **feel free to contact me to discuss any potential research collaborations**. More info can be found [here](https://jonvicente.github.io/files/CV_Jonathan_Vicente_en.pdf) or [e-mail](mailto:jonathanvice@gmail.com). 
