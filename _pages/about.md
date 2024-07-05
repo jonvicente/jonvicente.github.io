@@ -10,9 +10,9 @@ redirect_from:
 
 BMedSci | MSc - Mental Health and Climate Epidemiology
 --
-My primary focus is understanding the intricate interplay between climate change and its profound physical and mental health impacts. I have been working on **Public Health, Global Mental Health, Psychiatric Epidemiology and Climate Epidemiology**, investigating how these different fields converge under the influence of climate change. 
+My main research focus is understanding how climate change impacts the physical and mental health of specific populations. This focus **(Climate Epidemiology)** has been part of my academic journey alongside other research fields **(Public Health and Psychiatric Epidemiology)**.
 
-PhD student at the **Oeschger-Zentrum für Klimaforschung** (Oeschger Centre for Climate Change Research) and in the **Institut für Sozial- und Präventivmedizin** (Institute of Social and Preventive Medicine) at the University of Bern, Switzerland. My research focuses on investigating the psychological consequences of extreme weather events and climate-related hazards to understand the effects of climate change on mental health in Switzerland and The Gambia.
+Since July 2024, I have been a PhD student in Ana M Vicedo-Cabrera's research group **(Climate Change and Health)** at the **Oeschger-Zentrum für Klimaforschung** (Oeschger Centre for Climate Change Research) and the **Institut für Sozial- und Präventivmedizin** (Institute of Social and Preventive Medicine) at the University of Bern in Switzerland. My PhD research involves investigating the psychological consequences of extreme weather events and climate-related hazards to understand the effects of climate change on mental health in Switzerland and The Gambia.
 
 ![Illustration of combining vision and language modalities](/images/climate_stripes_2.jfif){:.align-center width="900px"}
 
@@ -20,11 +20,7 @@ PhD student at the **Oeschger-Zentrum für Klimaforschung** (Oeschger Centre for
 
 **Baseline periods** can be used to generate climate stripes, comparing temperature anomalies against different historical averages, such as 1951-1980, 1961-1990, and 1981-2010. Using various baselines shows how recent warming trends compare to past norms, emphasizing the urgency of addressing climate change.
 
-Climate Change & Health - #CC&H
---
-Climate change poses a significant threat to human health through both **direct and indirect pathways**, such as extreme weather events, deteriorating air quality, the spread of vector-borne diseases and the psychological toll on mental health. The stress and anxiety associated with extreme weather events, displacement, and the destruction of homes and livelihoods can lead to severe mental health consequences, including **depression and anxiety**. 
-
-**Vulnerable populations, including children, the elderly, and low-income communities**, face heightened risks. Addressing these health impacts necessitates robust mitigation efforts to reduce greenhouse gas emissions and comprehensive adaptation strategies to strengthen healthcare infrastructure and resilience. International and local initiatives are crucial in developing effective responses to safeguard public health in a changing climate. For more detailed information, visit our "**[#CC&H](https://jonvicente.github.io/cc_health/)**" section directly.
+For more detailed information, visit our "**[#CC&H](https://jonvicente.github.io/cc_health/)**" section directly.
 
 ------
 If you need any more information, **feel free to contact me to discuss any potential research collaborations**. More info can be found [here](https://jonvicente.github.io/files/CV_Jonathan_Vicente_en.pdf) or [e-mail](mailto:jonathanvice@gmail.com). 
