@@ -7,7 +7,25 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- SEO Meta Tags -->
+<meta name="description" content="Jonathan Vicente – PhD student in Climate Epidemiology and Public Health at the University of Bern and Oeschger Centre for Climate Change Research. Research on climate change, mental health, and psychiatry.">
+<meta name="keywords" content="Jonathan Vicente, climate epidemiology, climate change, mental health, psychiatry, University of Bern, Oeschger Centre, public health, epidemiology">
+<meta name="author" content="Jonathan Vicente">
 
+<!-- Open Graph tags -->
+<meta property="og:title" content="Jonathan Vicente – Climate & Mental Health Research" />
+<meta property="og:description" content="PhD student in Climate Epidemiology and Public Health at the University of Bern. Research on climate change, extreme weather, and mental health." />
+<meta property="og:type" content="profile" />
+<meta property="og:url" content="https://jonvicente.github.io/" />
+<meta property="og:image" content="https://jonvicente.github.io/images/warming_stripes.gif" />
+
+<!-- Twitter Card tags -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Jonathan Vicente – Climate & Mental Health Research" />
+<meta name="twitter:description" content="PhD student in Climate Epidemiology at the University of Bern. Research on climate change, mental health, and psychiatry." />
+<meta name="twitter:image" content="https://jonvicente.github.io/images/warming_stripes.gif" />
+
+---
 BMedSci | MSc - Mental Health and Climate Epidemiology
 --
 My main research focus is understanding how climate change impacts specific populations' physical and mental health. This focus **(Climate Epidemiology)** has been part of my academic journey alongside other research fields **(Mental Health and Psychiatry)**.
