@@ -33,8 +33,12 @@ My main research focus is understanding how climate change impacts specific popu
 Since July 2024, I have been a PhD student in Ana M Vicedo-Cabrera's research group **(Climate Epidemiology and Public Health)** at the **Institut für Sozial- und Präventivmedizin** (Institute of Social and Preventive Medicine) - University of Bern and in the **Oeschger-Zentrum für Klimaforschung** (Oeschger Centre for Climate Change Research) in Switzerland. My PhD research involves investigating the psychological consequences of extreme weather events and climate-related hazards to understand the effects of climate change on mental health in Switzerland and The Gambia.
 
 ------
-style="font-size:14px; line-height:1.5; color:#444;
-<b>Climate stripes<b> visually represent the rise in global temperatures. Created by Ed Hawkins in 2018, each stripe represents a period, with blue for cooler and red for warmer periods. Their simplicity effectively communicates climate change, highlighting the warming trend.
+
+**Climate stripes** visually represent the rise in global temperatures. Created by Ed Hawkins in 2018, each stripe represents a period, with blue for cooler and red for warmer periods. Their simplicity effectively communicates climate change, highlighting the warming trend.
+
+<p style="font-size:14px; line-height:1.5; color:#444;">
+<strong>Climate stripes</strong> visually represent the rise in global temperatures. Created by Ed Hawkins in 2018, each stripe represents a period, with blue for cooler and red for warmer periods. Their simplicity effectively communicates climate change, highlighting the warming trend.
+</p>
 
 
 ![Illustration of combining vision and language modalities](/images/warming_stripes.gif){:.align-center width="900px"}
