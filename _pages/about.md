@@ -10,7 +10,7 @@ redirect_from:
 
 BMedSci | MSc - Mental Health and Climate Epidemiology
 --
-My main research focus is understanding how climate change impacts specific populations' physical and mental health. This focus **(Climate Epidemiology)** has been part of my academic journey alongside other research fields **(Public Health and Psychiatric Epidemiology)**.
+My main research focus is understanding how climate change impacts specific populations' physical and mental health. This focus **(Climate Epidemiology)** has been part of my academic journey alongside other research fields **(Public Health, Mental Health and Psychiatry)**.
 
 Since July 2024, I have been a PhD student in Ana M Vicedo-Cabrera's research group **(Climate Epidemiology and Public Health)** at the **Institut für Sozial- und Präventivmedizin** (Institute of Social and Preventive Medicine) - University of Bern and in the **Oeschger-Zentrum für Klimaforschung** (Oeschger Centre for Climate Change Research) in Switzerland. My PhD research involves investigating the psychological consequences of extreme weather events and climate-related hazards to understand the effects of climate change on mental health in Switzerland and The Gambia.
 
