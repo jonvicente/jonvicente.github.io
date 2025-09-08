@@ -44,6 +44,144 @@ Certain populations are more vulnerable to the health impacts of climate change,
 <p></p>
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AI-Generated Content Disclosure</title>
+  <meta name="description" content="A simple webpage disclosing that the text was created using the ChatGPT AI tool." />
+  <style>
+    :root {
+      --bg: #0f172a; /* slate-900 */
+      --card: #111827; /* gray-900 */
+      --text: #e5e7eb; /* gray-200 */
+      --muted: #94a3b8; /* slate-400 */
+      --accent: #38bdf8; /* sky-400 */
+      --ring: rgba(56, 189, 248, 0.35);
+    }
+
+    * { box-sizing: border-box; }
+    html, body { height: 100%; }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+      color: var(--text);
+      background: radial-gradient(1200px 800px at 20% -10%, rgba(56,189,248,.15), transparent 60%),
+                  radial-gradient(1200px 800px at 120% 10%, rgba(168,85,247,.12), transparent 60%),
+                  var(--bg);
+      display: grid;
+      place-items: center;
+      padding: 24px;
+    }
+
+    .card {
+      width: 100%;
+      max-width: 720px;
+      background: linear-gradient(180deg, rgba(255,255,255,0.03), rgba(255,255,255,0.01));
+      border: 1px solid rgba(148,163,184,0.15);
+      box-shadow: 0 20px 50px rgba(2,6,23,0.5);
+      border-radius: 20px;
+      padding: 28px;
+      backdrop-filter: blur(6px);
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      border-radius: 999px;
+      border: 1px solid rgba(56,189,248,0.35);
+      background: rgba(2,6,23,0.6);
+      font-size: 12px;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--text);
+    }
+
+    .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--accent); box-shadow: 0 0 0 6px var(--ring); }
+
+    h1 { font-size: clamp(28px, 4vw, 40px); line-height: 1.1; margin: 18px 0 10px; }
+    p.lead { font-size: clamp(16px, 2vw, 18px); color: var(--muted); margin: 0 0 18px; }
+
+    .content {
+      margin-top: 18px;
+      display: grid;
+      gap: 14px;
+      color: var(--text);
+    }
+
+    a.button {
+      display: inline-block;
+      margin-top: 16px;
+      padding: 12px 16px;
+      border-radius: 12px;
+      border: 1px solid rgba(56,189,248,0.4);
+      background: linear-gradient(180deg, rgba(56,189,248,0.15), rgba(56,189,248,0.08));
+      color: var(--text);
+      text-decoration: none;
+      font-weight: 600;
+      transition: transform .08s ease, box-shadow .2s ease, border-color .2s ease;
+      box-shadow: 0 10px 25px rgba(56,189,248,0.12);
+    }
+    a.button:focus-visible { outline: none; box-shadow: 0 0 0 6px var(--ring); }
+    a.button:hover { transform: translateY(-1px); border-color: rgba(56,189,248,0.7); }
+
+    .list {
+      margin: 0; padding: 0 0 0 16px; color: var(--muted);
+    }
+
+    footer { margin-top: 20px; font-size: 12px; color: var(--muted); }
+
+    .disclaimer {
+      margin-top: 16px;
+      padding: 12px 14px;
+      background: rgba(100,116,139,0.12);
+      border: 1px dashed rgba(148,163,184,0.35);
+      border-radius: 12px;
+      color: var(--muted);
+    }
+  </style>
+</head>
+<body>
+  <main class="card" role="main" aria-labelledby="title">
+    <div class="badge" aria-label="AI disclosure badge">
+      <span class="dot" aria-hidden="true"></span>
+      <span>AI-Generated Content</span>
+    </div>
+
+    <h1 id="title">This text was created with ChatGPT</h1>
+    <p class="lead">Transparency note: parts of this page's content were drafted using an AI assistant.</p>
+
+    <section class="content">
+      <p>
+        We use <strong>ChatGPT</strong>, an AI tool by OpenAI, to help draft and refine text. The content may be edited by humans for accuracy, tone, and clarity before publication.
+      </p>
+      <ul class="list">
+        <li>Purpose: speed up writing and brainstorm ideas.</li>
+        <li>Review: humans check facts, style, and context.</li>
+        <li>Limitations: AI may make mistakes—please report issues.</li>
+      </ul>
+
+      <a class="button" href="https://chatgpt.com" target="_blank" rel="noopener">Visit ChatGPT</a>
+
+      <div class="disclaimer" role="note">
+        <strong>Disclaimer:</strong> No sensitive personal data was provided to the AI when generating this content.
+      </div>
+    </section>
+
+    <footer>
+      © <span id="year"></span> Your Organization. All rights reserved.
+    </footer>
+  </main>
+
+  <script>
+    // Set current year in footer
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
 
 
 
