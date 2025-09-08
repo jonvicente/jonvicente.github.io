@@ -27,7 +27,8 @@ redirect_from:
 
 ---
 BMedSci | MSc - Mental Health and Climate Epidemiology
---
+---
+
 
 <p style="font-size:14px; line-height:1.6; color:#444;">
 My main research focus is understanding how climate change impacts specific populations' physical and mental health. This focus <strong>(Climate Epidemiology)</strong> has been part of my academic journey alongside other research fields <strong>(Mental Health and Psychiatry)</strong>.
@@ -45,11 +46,7 @@ Since July 2024, I have been a PhD student in Ana M Vicedo-Cabrera's research gr
 ![Illustration of combining vision and language modalities](/images/warming_stripes.gif){:.align-center width="900px"}
 
 ------
-If you need any more information, **feel free to contact me to discuss any potential research collaborations**. More info can be found [here](https://jonvicente.github.io/files/CV_Jonathan_Vicente_en.pdf) or [e-mail](mailto:jonathanvice@gmail.com). 
-
 <p style="font-size:14px; line-height:1.6; color:#444;">
 If you need any more information, <strong>feel free to contact me to discuss any potential research collaborations</strong>. More info can be found <a href="https://jonvicente.github.io/files/CV_Jonathan_Vicente_en.pdf" target="_blank" rel="noopener">here</a> or <a href="mailto:jonathanvice@gmail.com">e-mail</a>.
 </p>
-
-
 ------
