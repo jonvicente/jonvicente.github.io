@@ -26,6 +26,7 @@ redirect_from:
 <meta name="twitter:image" content="https://jonvicente.github.io/images/warming_stripes.gif" />
 
 ---
+
 BMedSci | MSc - Mental Health and Climate Epidemiology
 ---
 
