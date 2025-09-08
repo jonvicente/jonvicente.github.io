@@ -34,7 +34,7 @@ Since July 2024, I have been a PhD student in Ana M Vicedo-Cabrera's research gr
 
 ------
 <div style="font-size:14px; line-height:1.5; color:#444;">
-<b>**Climate stripes** visually represent the rise in global temperatures. Created by Ed Hawkins in 2018, each stripe represents a period, with blue for cooler and red for warmer periods. Their simplicity effectively communicates climate change, highlighting the warming trend.
+<b>Climate stripes visually represent the rise in global temperatures. Created by Ed Hawkins in 2018, each stripe represents a period, with blue for cooler and red for warmer periods. Their simplicity effectively communicates climate change, highlighting the warming trend.<b>
 </div>
 
 ![Illustration of combining vision and language modalities](/images/warming_stripes.gif){:.align-center width="900px"}
